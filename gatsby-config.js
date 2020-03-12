@@ -17,7 +17,7 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'My Personal Blog',
+    title: 'Darshan Datta',
     description:
       'I write about my journey into web and native full-stack development. I document my experiences as I try to climb to the peak as a self-taught developer.',
     siteUrl: 'https://darshan.website',
@@ -82,8 +82,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'GCN',
-        short_name: 'GCN',
+        name: 'Darshan Datta',
+        short_name: 'Darshan',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#ffffff',
